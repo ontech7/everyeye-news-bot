@@ -1,0 +1,32 @@
+{
+  "name": "everyeye-news-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for reading https://www.everyeye.it news",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ontech7/everyeye-news-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "telegram",
+    "everyeye.it",
+    "news",
+    "feed",
+    "rss"
+  ],
+  "author": "Andrea Losavio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ontech7/everyeye-news-bot/issues"
+  },
+  "homepage": "https://github.com/ontech7/everyeye-news-bot#readme",
+  "dependencies": {
+    "events": "^3.0.0",
+    "everyeye-rss": "git+https://github.com/ontech7/everyeye-rss.git",
+    "telegraf": "^3.30.1"
+  }
+}
