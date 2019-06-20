@@ -1,6 +1,6 @@
 {
   "name": "everyeye-news-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Telegram bot for reading https://www.everyeye.it news",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/ontech7/everyeye-news-bot#readme",
   "dependencies": {
-    "events": "^3.0.0",
     "everyeye-rss": "git+https://github.com/ontech7/everyeye-rss.git",
     "telegraf": "^3.30.1"
   }
