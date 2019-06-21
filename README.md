@@ -1,5 +1,5 @@
 # everyeye-news-bot
-A Telegram bot for reading https://www.everyeye.it news
+A Telegram bot for reading https://www.everyeye.it news with button interface
 
 ## Installation
 
@@ -30,17 +30,17 @@ First of all, you need to copy&paste your bot token inside YOUR_TOKEN.
 `
 <br/>
 `
-/news - Pull some news (default: 5)
+Pull News - Pull some news (default: 5)
 `
 <br/>
 `
-/stop - Stop pulling news every fixed time (default: 60 seconds)
+Stop - Stop pulling news every fixed time (default: 60 seconds)
 `
 <br/>
 `
-/continue - Continue receiving news
+Autopull - Continue receiving news
 `
 <br/>
 `
-/help - Well, you know what it means
+Help - Well, you know what it means
 `
