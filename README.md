@@ -1,7 +1,7 @@
 # everyeye-news-bot
 A Telegram bot for reading https://www.everyeye.it news with button interface
 
-![](https://i.imgur.com/r3zqGia.jpg)
+<img src="https://i.imgur.com/r3zqGia.jpg" height="650">
 
 ## Installation
 
